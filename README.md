@@ -1,5 +1,9 @@
 # vue3-sample
 
+## Requirements
+* node v16.15.0
+* npm v8.5.5
+
 ## Project setup
 ```
 npm install
